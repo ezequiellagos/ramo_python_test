@@ -1,2 +1,5 @@
-hola mundo desde un archivo de texto
-que subiré a GitHub
+hola mundo GitHub
+
+Lista de compras:
+- a
+- b
